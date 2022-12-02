@@ -6,8 +6,27 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+  <!-- Cesium -->
   <link rel="stylesheet" href="static/Cesium/Widgets/widgets.css">
   <script src="static/Cesium/Cesium.js"></script>
+
+  <!--GeoGlobeJS  -->
+  <!-- <link rel="stylesheet" href="static/NJComponents/njmap.css" />
+  <script type="text/javascript" src="static/NJComponents/njmap.umd.min.js"></script> -->
+
+  <link rel="stylesheet" href="http://mapservices.njghzy.com.cn:84/njapis/njmaps/mapbox/css/mapbox-gl.css"
+    type="text/css" />
+
+  <script type="text/javascript"
+    src="http://mapservices.njghzy.com.cn:84/njapis/njmaps/mapbox/js/mapbox-gl.js"></script>
+
+  <script type="text/javascript"
+    src="http://mapservices.njghzy.com.cn:84/other/njapis/auth/GeoGlobe/GeoGlobeJS.min.js?njtoken=bd1df0faaeff1a68016afeeae184d77f"></script>
+
+  <!-- <script src="http://mapservices.njghzy.com.cn:84/njapis/njmaps/GeoGlobeAPI/plugins/layergl/layergl.min.js"></script>
+  <script src="http://mapservices.njghzy.com.cn:84/njapis/resource/js/polygon.js"></script> -->
+
+
   <title>
     <%= htmlWebpackPlugin.options.title %>
   </title>
@@ -21,4 +40,5 @@
   <div id="app"></div>
   <!-- built files will be auto injected -->
 </body>
+
 </html>

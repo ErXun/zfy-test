@@ -9,5 +9,8 @@ require("@/styles/base.css");
 export default {};
 </script>
 
-<style>
+<style lang="less" scoped>
+#app {
+  height: 100%;
+}
 </style>

@@ -1,0 +1,396 @@
+{
+  "code": 200,
+  "msg": "请求成功",
+  "result": [
+    {
+      "qyId": 38485,
+      "qyName": "南京市浦口区戴运国饭店",
+      "signboardName": null,
+      "xm": "戴运国",
+      "lxdh": "15850755894",
+      "szwg": "南苑社区1号网格",
+      "areaCode": "320112001009001",
+      "dz": null
+    },
+    {
+      "qyId": 38486,
+      "qyName": "南京李杰夫盲人推拿保健中心\n",
+      "signboardName": null,
+      "xm": "李杰夫",
+      "lxdh": "18914729554",
+      "szwg": "南苑社区4号网格",
+      "areaCode": "320112001009004",
+      "dz": null
+    },
+    {
+      "qyId": 38487,
+      "qyName": "南京市浦口区红霞烟酒店",
+      "signboardName": null,
+      "xm": "曹红霞",
+      "lxdh": "15365164061\n",
+      "szwg": "南苑社区4号网格",
+      "areaCode": "320112001009004",
+      "dz": null
+    },
+    {
+      "qyId": 38488,
+      "qyName": "南京市浦口区壹滴水酒业销售中心",
+      "signboardName": null,
+      "xm": "孙成勇",
+      "lxdh": "13776602548",
+      "szwg": "南苑社区6号网格",
+      "areaCode": "320112001009006",
+      "dz": null
+    },
+    {
+      "qyId": 38489,
+      "qyName": "拓品美发",
+      "signboardName": null,
+      "xm": "冯玉娣",
+      "lxdh": "15951668663",
+      "szwg": "南苑社区6号网格",
+      "areaCode": "320112001009006",
+      "dz": null
+    },
+    {
+      "qyId": 38490,
+      "qyName": "南京市浦口区璞和百味卤菜店",
+      "signboardName": null,
+      "xm": "陈树",
+      "lxdh": "18055539792",
+      "szwg": "南苑社区6号网格",
+      "areaCode": "320112001009006",
+      "dz": null
+    },
+    {
+      "qyId": 38491,
+      "qyName": "南京市江北新区谢长宝房产中介服务部",
+      "signboardName": null,
+      "xm": "周媛媛",
+      "lxdh": "18913368391",
+      "szwg": "南苑社区6号网格",
+      "areaCode": "320112001009006",
+      "dz": null
+    },
+    {
+      "qyId": 38492,
+      "qyName": "南京市浦口区恒高房产信息咨询中心",
+      "signboardName": null,
+      "xm": "刘素珍",
+      "lxdh": "13913311792",
+      "szwg": "南苑社区6号网格",
+      "areaCode": "320112001009006",
+      "dz": null
+    },
+    {
+      "qyId": 38493,
+      "qyName": "江北新区玉保杨蔬菜零售店",
+      "signboardName": null,
+      "xm": "杨玉保",
+      "lxdh": "17205181790",
+      "szwg": "南苑社区6号网格",
+      "areaCode": "320112001009006",
+      "dz": null
+    },
+    {
+      "qyId": 38494,
+      "qyName": "南京市江北新区晓荷四季鲜果店",
+      "signboardName": null,
+      "xm": "蒋玲",
+      "lxdh": "13814179297",
+      "szwg": "南苑社区6号网格",
+      "areaCode": "320112001009006",
+      "dz": null
+    },
+    {
+      "qyId": 38495,
+      "qyName": "江北新区普庆泰禾便民早餐店",
+      "signboardName": null,
+      "xm": "刘静",
+      "lxdh": "13410934763",
+      "szwg": "南苑社区6号网格",
+      "areaCode": "320112001009006",
+      "dz": null
+    },
+    {
+      "qyId": 38496,
+      "qyName": "苏果超市有限公司南苑小区连锁店",
+      "signboardName": null,
+      "xm": "黄荣华",
+      "lxdh": "18936887570",
+      "szwg": "南苑社区6号网格",
+      "areaCode": "320112001009006",
+      "dz": null
+    },
+    {
+      "qyId": 38497,
+      "qyName": "南京市江北新区涌利惠民便利店",
+      "signboardName": null,
+      "xm": "王教丽",
+      "lxdh": "15996488630",
+      "szwg": "南苑社区6号网格",
+      "areaCode": "320112001009006",
+      "dz": null
+    },
+    {
+      "qyId": 38498,
+      "qyName": "南京市浦口区广耀汽车玻璃经营部",
+      "signboardName": null,
+      "xm": "葛卫珍",
+      "lxdh": "13813004294",
+      "szwg": "南苑社区7号网格",
+      "areaCode": "320112001009007",
+      "dz": null
+    },
+    {
+      "qyId": 38499,
+      "qyName": "南京市浦口区浩红汽车维修服务中心",
+      "signboardName": null,
+      "xm": "李铁柱",
+      "lxdh": "13611578580",
+      "szwg": "南苑社区7号网格",
+      "areaCode": "320112001009007",
+      "dz": null
+    },
+    {
+      "qyId": 38500,
+      "qyName": "南京市浦口区鑫淏宁液压机械经营部",
+      "signboardName": null,
+      "xm": "沙玉存",
+      "lxdh": "15380899730",
+      "szwg": "南苑社区7号网格",
+      "areaCode": "320112001009007",
+      "dz": null
+    },
+    {
+      "qyId": 38501,
+      "qyName": "南京市江北新区东新汽车维修中心",
+      "signboardName": null,
+      "xm": "李飞",
+      "lxdh": "15651853530",
+      "szwg": "南苑社区7号网格",
+      "areaCode": "320112001009007",
+      "dz": null
+    },
+    {
+      "qyId": 38502,
+      "qyName": "南京市浦口区一家乐百货超市店",
+      "signboardName": null,
+      "xm": "郑建东",
+      "lxdh": "18795807976",
+      "szwg": "南苑社区7号网格",
+      "areaCode": "320112001009007",
+      "dz": null
+    },
+    {
+      "qyId": 38503,
+      "qyName": "南京市浦口区蔬宜鲜生鲜超市店",
+      "signboardName": null,
+      "xm": "刘睿",
+      "lxdh": "18921442075",
+      "szwg": "南苑社区7号网格",
+      "areaCode": "320112001009007",
+      "dz": null
+    },
+    {
+      "qyId": 38504,
+      "qyName": "南京市江北新区绿之茵烟酒百货店",
+      "signboardName": null,
+      "xm": "张东",
+      "lxdh": "13814163595",
+      "szwg": "南苑社区7号网格",
+      "areaCode": "320112001009007",
+      "dz": null
+    },
+    {
+      "qyId": 38505,
+      "qyName": "南京市浦口区同业房产经纪中心",
+      "signboardName": null,
+      "xm": "周杰",
+      "lxdh": "15851813515",
+      "szwg": "南苑社区7号网格",
+      "areaCode": "320112001009007",
+      "dz": null
+    },
+    {
+      "qyId": 38506,
+      "qyName": "江北新区玉平美容院",
+      "signboardName": null,
+      "xm": "冯玉平",
+      "lxdh": "13851666266",
+      "szwg": "南苑社区7号网格",
+      "areaCode": "320112001009007",
+      "dz": null
+    },
+    {
+      "qyId": 38507,
+      "qyName": "江北新区萍相逢健康咨询服务中心",
+      "signboardName": null,
+      "xm": "王跃萍",
+      "lxdh": "13505158083",
+      "szwg": "南苑社区7号网格",
+      "areaCode": "320112001009007",
+      "dz": null
+    },
+    {
+      "qyId": 38508,
+      "qyName": "南京之家阁健康科技有限公司",
+      "signboardName": null,
+      "xm": "邓杲之",
+      "lxdh": "15951007035",
+      "szwg": "南苑社区7号网格",
+      "areaCode": "320112001009007",
+      "dz": null
+    },
+    {
+      "qyId": 38509,
+      "qyName": "南京市浦口区王伟勇百货店",
+      "signboardName": null,
+      "xm": "王伟勇",
+      "lxdh": "13016942280",
+      "szwg": "南苑社区8号网格",
+      "areaCode": "320112001009008",
+      "dz": null
+    },
+    {
+      "qyId": 38510,
+      "qyName": "南京市浦口区裕鑫汽车美容中心",
+      "signboardName": null,
+      "xm": "蒋智坚",
+      "lxdh": "13951824009",
+      "szwg": "南苑社区8号网格",
+      "areaCode": "320112001009008",
+      "dz": null
+    },
+    {
+      "qyId": 38511,
+      "qyName": "南京市浦口区梁红军摩配经营部",
+      "signboardName": null,
+      "xm": "梁红军",
+      "lxdh": "15950598629",
+      "szwg": "南苑社区8号网格",
+      "areaCode": "320112001009008",
+      "dz": null
+    },
+    {
+      "qyId": 38512,
+      "qyName": "南京市浦口区艾庭芳卤菜店",
+      "signboardName": null,
+      "xm": "艾庭芳",
+      "lxdh": "13585142052",
+      "szwg": "南苑社区8号网格",
+      "areaCode": "320112001009008",
+      "dz": null
+    },
+    {
+      "qyId": 38513,
+      "qyName": "南京市浦口区程晶卤菜店",
+      "signboardName": null,
+      "xm": "曾妍",
+      "lxdh": "15251744653",
+      "szwg": "南苑社区8号网格",
+      "areaCode": "320112001009008",
+      "dz": null
+    },
+    {
+      "qyId": 38514,
+      "qyName": "南京市浦口区祁牌海群百货超市店",
+      "signboardName": null,
+      "xm": "王宣妹",
+      "lxdh": "13912954488",
+      "szwg": "南苑社区8号网格",
+      "areaCode": "320112001009008",
+      "dz": null
+    },
+    {
+      "qyId": 38515,
+      "qyName": "南京市浦口区永发理发店",
+      "signboardName": null,
+      "xm": "王树永",
+      "lxdh": "13851694022",
+      "szwg": "南苑社区8号网格",
+      "areaCode": "320112001009008",
+      "dz": null
+    },
+    {
+      "qyId": 38516,
+      "qyName": "南京市浦口区佳亮卷帘门厂",
+      "signboardName": null,
+      "xm": "陈建",
+      "lxdh": "13912924612",
+      "szwg": "南苑社区8号网格",
+      "areaCode": "320112001009008",
+      "dz": null
+    },
+    {
+      "qyId": 38517,
+      "qyName": "南京市江北新区赵燕棋牌室",
+      "signboardName": null,
+      "xm": "赵燕",
+      "lxdh": "13851903387",
+      "szwg": "南苑社区8号网格",
+      "areaCode": "320112001009008",
+      "dz": null
+    },
+    {
+      "qyId": 38518,
+      "qyName": "南京市江北新区映辉萍生鲜贸易商行",
+      "signboardName": null,
+      "xm": "郭映",
+      "lxdh": "13705188108",
+      "szwg": "南苑社区8号网格",
+      "areaCode": "320112001009008",
+      "dz": null
+    },
+    {
+      "qyId": 38519,
+      "qyName": "南京市江北新区巨豪小李饭店",
+      "signboardName": null,
+      "xm": "李永",
+      "lxdh": "15261828138",
+      "szwg": "南苑社区8号网格",
+      "areaCode": "320112001009008",
+      "dz": null
+    },
+    {
+      "qyId": 38520,
+      "qyName": "南京市江北新区闪亮棋牌室",
+      "signboardName": null,
+      "xm": "魏茜",
+      "lxdh": "18905142909",
+      "szwg": "南苑社区8号网格",
+      "areaCode": "320112001009008",
+      "dz": null
+    },
+    {
+      "qyId": 38521,
+      "qyName": "江北新区丸碧化妆品店",
+      "signboardName": null,
+      "xm": "赵燕",
+      "lxdh": "13851903387",
+      "szwg": "南苑社区8号网格",
+      "areaCode": "320112001009008",
+      "dz": null
+    },
+    {
+      "qyId": 38522,
+      "qyName": "江北新区胡二棋牌店",
+      "signboardName": null,
+      "xm": "丁香宁",
+      "lxdh": "18114457585",
+      "szwg": "南苑社区8号网格",
+      "areaCode": "320112001009008",
+      "dz": null
+    },
+    {
+      "qyId": 38523,
+      "qyName": "江北新区阿丁干洗店",
+      "signboardName": null,
+      "xm": "丁香宁",
+      "lxdh": "18114457585",
+      "szwg": "南苑社区8号网格",
+      "areaCode": "320112001009008",
+      "dz": null
+    }
+  ]
+}
